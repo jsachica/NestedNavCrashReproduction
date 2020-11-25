@@ -1,0 +1,2 @@
+rootProject.name = "NestedNavCrashReproduction"
+include ':app'
